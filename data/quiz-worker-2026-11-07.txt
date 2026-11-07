@@ -79,3 +79,6 @@ A: Joey - Science & Nature
 Auto Quiz - Philosophy 🧠
 Q: Who is the lead singer of the Smashing Pumpkins?
 A: Billy Corgan - Entertainment: Music
+Auto Quiz - Economics 🧠
+Q: What is the name of the main character in "The Flash" TV series?
+A: Barry Allen - Entertainment: Television
