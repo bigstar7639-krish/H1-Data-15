@@ -115,3 +115,6 @@ A: Micronesia - Science: Computers
 Auto Quiz - Sakura 🧠
 Q: What lies at the center of our galaxy?
 A: A black hole - Science & Nature
+Auto Quiz - Kimono 🧠
+Q: On which computer hardware device is the BIOS chip located?
+A: Motherboard - Science: Computers
