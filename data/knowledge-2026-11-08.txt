@@ -56,3 +56,21 @@ A: Peach - Entertainment: Video Games
 Knowledge Quiz
 Q: Which "Call Of Duty: Zombies" map introduced the "Staffs Of The Ancients"?
 A: Origins - Entertainment: Video Games
+Knowledge 6710 - Computer - **Computer – என்ன பத்தி சொல்லலாம்?**  
+
+---
+
+### 1. Computer என்றது என்ன?  
+Computer என்பது **data-ஐ process** செய்யும் electronic device.  
+- **Input** (கீபோர்ட், மௌஸ், touch screen, microphone) →  
+- **Processing** (CPU, RAM, storage) →  
+- **Output** (மோனிட்டர், ஸ்பீக்கர், பிரிண்டர்)  
+
+### 2. Hardware (உடல் பாகங்கள்)
+
+| பாகம் | என்ன செய்கிறது? | எடுத்துக்காட்டு |
+|------|-----------------|----------------|
+| **CPU (Central Processing Unit)** | “முதன்மை மூளை” – instruction-களை execute செய்கிறது | Intel i7, AMD Ryzen 5 |
+| **RAM (Random Access Memory)** | Temporary storage – program-கள் ஓடும் போது data-ஐ hold செய்கிறது | 8 GB, 16 GB DDR4 |
+| **Storage** | Permanent data storage – files, OS, apps | HDD, SSD, NVMe |
+| **Motherboard** | எல்லா components-ஐ connect செய்யும் board | ATX, Micro
