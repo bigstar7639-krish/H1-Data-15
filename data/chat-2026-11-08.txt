@@ -656,3 +656,5 @@ Knowledge 7037 - Politics - Politics pathi sollu - Nalla question! Daily try pan
 Game 7038 - Dice - Ne Dice nu Sollu!
 Movie 7039 - Harry Potter - Magic!
 Pazhamozhi 7040 - Sontha Kaal la Ninnu - Jeyippa!
+Story 7041
+Oru sea la oru student irunthan! Daily help pannan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
