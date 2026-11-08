@@ -624,3 +624,4 @@ Coding Q 7025 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Kavithai 7026 - Un Sirippu - En Vazhkai! - Aira
 Vocab 7027 - Happy = Santhosham
+Talk 7028 - Friendship pathi pesalama? Sollu!
