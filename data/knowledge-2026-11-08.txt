@@ -452,3 +452,6 @@ A: Rik Mayall - Entertainment: Television
 Knowledge Quiz
 Q: What is the weight of a Gold Bar in Fallout: New Vegas?
 A: 35 Pounds - General Knowledge
+Knowledge Quiz
+Q: Which Nirvana album had a naked baby on the cover?
+A: Nevermind - Entertainment: Music
