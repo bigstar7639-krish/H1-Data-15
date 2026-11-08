@@ -757,3 +757,4 @@ Ne fitness‑a boost panna basic‑a 4 pillars irukku: **Movement, Food, Recov
 World Story 7094
 Oru chinna madurai la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Vocab 7095 - Courage = Thairiyam
+Health 7096 - Health Tip: Daily 30 min walk ponga!
