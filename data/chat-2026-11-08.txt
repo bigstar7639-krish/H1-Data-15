@@ -534,3 +534,5 @@ Vocab 6972 - Love = Kadhal
 Story 6973
 Oru oor la oru rani irunthan! Daily help pannan pannan! Oru naal dream kedaichuchu! Life maariduchu!
 Health 6974 - Health Tip: Daily 30 min walk ponga!
+Story 6975
+Oru chinna world la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
