@@ -328,3 +328,4 @@ Oru chinna world la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aa
 Talk 6856 - Bible pathi pesalama? Sollu!
 Movie 6857 - Harry Potter - Magic!
 Smart Q 6858 - Dream la eppadi jeyikkarathu?
+Quote 6859 - Daily try pannu - Jeyichiduva! - Aira
