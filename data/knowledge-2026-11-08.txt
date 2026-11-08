@@ -443,3 +443,6 @@ A: Souls  - Entertainment: Video Games
 Knowledge Quiz
 Q: Which Beatle led the way across the zebra crossing on the Abbey Road album cover?
 A: John - Entertainment: Music
+Knowledge Quiz
+Q: Which of these Roman gods doesn't have a counterpart in Greek mythology?
+A: Janus - Mythology
