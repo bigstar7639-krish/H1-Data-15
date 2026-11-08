@@ -557,3 +557,6 @@ A: Bread - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the derivative of sin(x)
 A: cos(x) - Science: Mathematics
+Knowledge Quiz
+Q: What was the first James Bond film?
+A: Dr. No - Entertainment: Film
