@@ -365,3 +365,6 @@ A: Apple - Science: Computers
 Knowledge Quiz
 Q: In "Call of Duty: Zombies", what group does Doctor Maxis work for?
 A: Group 935 - Entertainment: Video Games
+Knowledge Quiz
+Q: What year was the first Apple iPod introduced?
+A: 2001 - General Knowledge
