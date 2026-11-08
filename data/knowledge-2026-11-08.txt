@@ -514,3 +514,6 @@ Knowledge 7029 - Eiffel Tower - **Eiffel Tower** – Paris‑la irukkira ind
 Knowledge Quiz
 Q: On which planet does the game Freedom Planet (2014) take place?
 A: Avalice - Entertainment: Video Games
+Knowledge Quiz
+Q: Which mathematician refused the Fields Medal?
+A: Grigori Perelman - Science: Mathematics
