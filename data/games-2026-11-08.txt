@@ -12,3 +12,4 @@ Game 6919 - Dice - Ne Dice nu Sollu!
 Game 6932 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 6935 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Game 6949 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
+Game 6957 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
