@@ -618,3 +618,4 @@ Health 7020 - Health Tip: Daily 8 glass water kudinga!
 Movie 7021 - Jailer - Rajini - Mass!
 World Story 7022
 Oru sea la oru singer irunthan! Daily coding pannan pannan! Oru naal love kedaichuchu! Life maariduchu!
+Talk 7023 - River pathi pesalama? Sollu!
