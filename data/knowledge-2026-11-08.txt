@@ -77,3 +77,6 @@ Computer என்பது **data-ஐ process** செய்யும் electr
 Knowledge Quiz
 Q: In which movie does Robin Williams' character have to disguise themselves into a woman?
 A: Mrs. Doubtfire - Entertainment: Film
+Knowledge Quiz
+Q: In Two and a Half Men, what is Alan Harper's son's name?
+A: Jake - Entertainment: Television
