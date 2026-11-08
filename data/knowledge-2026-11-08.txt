@@ -201,3 +201,6 @@ A: Hammer - Sports
 Knowledge Quiz
 Q: Who wrote "A Tale of Two Cities"?
 A: Charles Dickens - Entertainment: Books
+Knowledge Quiz
+Q: What tool lends it's name to a last-stone advantage in an end in Curling?
+A: Hammer - Sports
