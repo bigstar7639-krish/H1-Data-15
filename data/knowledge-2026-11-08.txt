@@ -283,3 +283,6 @@ A: Grover Cleveland - Politics
 Knowledge Quiz
 Q: What does GPS stand for?
 A: Global Positioning System - Science: Gadgets
+Knowledge Quiz
+Q: In the server hosting industry IaaS stands for...
+A: Infrastructure as a Service - Science: Computers
