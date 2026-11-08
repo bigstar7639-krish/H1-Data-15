@@ -17,3 +17,21 @@ Thirukkural 6684 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Emotion Q 6685 - bored?
 Aira: Bored ah? Joke sollattuma?
 Talk 6686 - Brain pathi pesalama? Sollu!
+Knowledge 6687 - Biology - Hey buddy! 🙌 Biology‑ஐ பற்றி பேசப் போகிறோம்… “Life‑science” என்று அழைக்கும் இந்தப் பரப்பு, உயிரினங்களின் **அமைப்பு**, **செயல்பாடு**, **முறைகள்** மற்றும் **உறவுகள்**‑ஐ ஆராயும் science. 
+
+---
+
+## 1️⃣ What’s Biology?  
+- **Biology = Bio (life) + logy (study)** → “வாழ்க்கை பற்றிய ஆய்வு”.  
+- It tries to answer questions like:  
+  - *நாம் எப்படி உருவாகிறோம்?* (How do we develop?)  
+  - *விலங்குகள் எப்படி உணவைப் பெறுகின்றன?* (How do animals get food?)  
+  - *சுற்றுப்புறம் எப்படி செயல்படுகிறது?* (How does the ecosystem work?)
+
+---
+
+## 2️⃣ Main Branches (அறிமுக பிரிவுகள்)
+
+| Branch | What it studies | Tamil/Tanglish notes |
+|--------|----------------|----------------------|
+| **Cell Biology** | Cell structure, organelles, cell division (mitosis, meiosis) | செல்‑அறிவு – “Cell is the basic unit of l
