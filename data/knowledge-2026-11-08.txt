@@ -280,3 +280,6 @@ A: Major Fraud - Entertainment: Television
 Knowledge Quiz
 Q: Who is the only US president to serve two non-consecutive terms in office?
 A: Grover Cleveland - Politics
+Knowledge Quiz
+Q: What does GPS stand for?
+A: Global Positioning System - Science: Gadgets
