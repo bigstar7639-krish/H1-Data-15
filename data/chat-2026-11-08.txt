@@ -11,3 +11,5 @@ Fact 284 - Tamil - 2000+ varusha mozhi!
 Story 6681
 Oru new york la oru teacher irunthan! Daily dream pannan pannan! Oru naal dream kedaichuchu! Life maariduchu!
 Business Idea 6682 - Tuition - Veetla Tuition!
+Coding Q 6683 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
