@@ -440,3 +440,6 @@ A: White - Entertainment: Video Games
 Knowledge Quiz
 Q: In which series of games do you collect souls to empower you and buy weaponry and armor with?
 A: Souls  - Entertainment: Video Games
+Knowledge Quiz
+Q: Which Beatle led the way across the zebra crossing on the Abbey Road album cover?
+A: John - Entertainment: Music
