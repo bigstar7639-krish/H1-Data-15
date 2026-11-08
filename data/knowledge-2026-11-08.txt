@@ -238,3 +238,6 @@ A: The Thorn of Camorr - Entertainment: Books
 Knowledge Quiz
 Q: Who is the main antagonist in the Portal franchise?
 A: GLaDOS - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of these Elements is a metalloid?
+A: Antimony - Science & Nature
