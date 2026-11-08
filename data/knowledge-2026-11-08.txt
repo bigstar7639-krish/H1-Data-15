@@ -595,3 +595,6 @@ A: Polynesian - Entertainment: Film
 Knowledge Quiz
 Q: In "Rainbow Six: Siege", which of the following operators cannot breach reinforced walls?
 A: Buck - Entertainment: Video Games
+Knowledge Quiz
+Q: In Les Misérables, who is Prison Code 24601?
+A: Jean Valjean - Entertainment: Musicals & Theatres
