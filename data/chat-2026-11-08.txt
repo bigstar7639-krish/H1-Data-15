@@ -491,3 +491,4 @@ Thirukkural 6946 - Anbu - Ellam Tharum! - Thirukkural
 Thirukkural 6947 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Q 6948 - Unakku Student pathi enna theriyum?
 Game 6949 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
+Talk 6950 - Delhi pathi pesalama? Sollu!
