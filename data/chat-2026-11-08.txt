@@ -372,3 +372,5 @@ Coding Q 6875 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Health 6876 - Health Tip: Daily 8 glass water kudinga!
 Pazhamozhi 6877 - Porumai - Perumai Tharum!
+Motivation 6878
+Paravalla! Rest edu - Thirumba try pannu!
