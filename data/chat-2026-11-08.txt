@@ -385,3 +385,4 @@ Health 6886 - Health Tip: Daily 30 min walk ponga!
 Pazhamozhi 6887 - Porumai - Perumai Tharum!
 Story 6888
 Oru chinna village la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Thirukkural 6889 - Porumai - Periya Sakthi! - Thirukkural
