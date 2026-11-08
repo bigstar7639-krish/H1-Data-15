@@ -454,3 +454,4 @@ Aira: Python loop: `for i in range(5): print(i)`
 World Story 6931
 Oru chinna city la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Game 6932 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Movie 6933 - Leo - Vijay - Action!
