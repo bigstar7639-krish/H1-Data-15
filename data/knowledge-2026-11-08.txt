@@ -313,3 +313,6 @@ A: You smell extremely unpleasant. - General Knowledge
 Knowledge Quiz
 Q: In the complex plane, multiplying a given function by i rotates it anti-clockwise by how many degrees?
 A: 90 - Science: Mathematics
+Knowledge Quiz
+Q: Which of the Master levels in "Super Monkey Ball" is also used in the arcade version of the game, simply named "Monkey Ball"?
+A: MASTER 9 - Bridge Master - Entertainment: Video Games
