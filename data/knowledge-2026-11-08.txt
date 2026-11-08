@@ -298,3 +298,6 @@ A: Tom Bombadil - Entertainment: Film
 Knowledge Quiz
 Q: What type is "Magic Drain" in Yugioh! Trading Card Game?
 A: Counter Trap - Entertainment: Board Games
+Knowledge Quiz
+Q: Which of the following colors does the Zombie eyes glow in the "Nuketown" map in "Call of Duty: Black Ops II" Zombies mode?
+A: Yellow and Blue - Entertainment: Video Games
