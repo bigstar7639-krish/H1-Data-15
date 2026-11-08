@@ -154,3 +154,5 @@ Newton‑la (Physics‑la especially **Newton’s Laws** & **Mechanics**) improv
 | **Units & Dimensional Analysis** | Wrong units = wrong answer (and a lot of wasted time). | • Always write SI units. <br>• Do a “unit check” at the end of every equation. |
 | **Kine
 Game 6750 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Coding Q 6751 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
