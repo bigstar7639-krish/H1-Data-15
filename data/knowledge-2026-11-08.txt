@@ -112,3 +112,6 @@ A: Alice Margatroid - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: What part of the brain takes its name from the Greek for seahorse?
 A: Hippocampus - Science & Nature
+Knowledge Quiz
+Q: In the 1964 film "Zulu", what song does the British Army company sing before the final battle?
+A: Men of Harlech - Entertainment: Film
