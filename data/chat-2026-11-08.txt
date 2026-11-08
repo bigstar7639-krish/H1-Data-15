@@ -208,3 +208,4 @@ Knowledge 6784 - Quran - Quran pathi sollu - Nalla question! Daily try pannu - J
 Talk 6785 - Freedom pathi pesalama? Sollu!
 Emotion Q 6786 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva!
+Game 6787 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
