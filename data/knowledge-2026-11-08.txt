@@ -527,3 +527,6 @@ A: 1111 - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the atomic mass of Carbon?
 A: 12 - Science & Nature
+Knowledge Quiz
+Q: During World War I, which nation's monarchs were blood related?
+A: England, Germany, Russia - History
