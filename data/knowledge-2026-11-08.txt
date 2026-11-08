@@ -106,3 +106,6 @@ A: Shogun - General Knowledge
 Knowledge Quiz
 Q: Which retired American football quarterback played himself in 'Ace Ventura: Pet Detective' and 'Little Nicky'?
 A: Dan Marino - Entertainment: Film
+Knowledge Quiz
+Q: Which character in Touhou is able to control dolls?
+A: Alice Margatroid - Entertainment: Japanese Anime & Manga
