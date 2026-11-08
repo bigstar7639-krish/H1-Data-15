@@ -235,3 +235,5 @@ Recipe 6799 - Cake - Maida + Sugar + Egg + 30 min!
 Recipe 6800 - Cake - Maida + Sugar + Egg + 30 min!
 Vocab 6801 - Friend = Nanban
 Reading 6802 - Python Crash Course!
+Joke 6803
+Why bike sad? Petrol illa!
