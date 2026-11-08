@@ -21,3 +21,4 @@ kan - in.gazette.karnataka_d.2022-01-29.3607 - Karnataka Daily Gazette, 2022-01-
 kan - in.gazette.karnataka_eo.2020-08-06.102 - Karnataka ExtraOrdinary Gazette, 2020-08-06, Extra Ordinary, Part III
 kor - 20200301_20200301_0240 - 오늘의 아나키즘
 kor - chosun-ilbo-1924.12.31e - 朝鮮日報 1924.12.31e
+eng - the-daily-life-of-a-stalker - The Daily Life Of A Stalker
