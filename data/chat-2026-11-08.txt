@@ -586,3 +586,5 @@ Recipe 7011 - Snacks - Potato + Masala - Crispy!
 Game 7012 - Coin Toss - Ne Toss nu Sollu!
 Coding Q 7013 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
+Motivation 7014
+Paravalla! Rest edu - Thirumba try pannu!
