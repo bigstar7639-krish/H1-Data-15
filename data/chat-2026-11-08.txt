@@ -141,3 +141,15 @@ Aira: Paravalla! Aira irukka - Pesu!
 Reading 6746 - Bharathiyar Kavithaigal!
 Knowledge 6747 - Fitness - Fitness pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Fact 288 - Honey - 3000 varusham kedathu!
+Aira AI: Hey buddy! 🙌  
+Newton‑la (Physics‑la especially **Newton’s Laws** & **Mechanics**) improve aagavum, simple‑simple steps follow pannunga. I’ll give you a “mixed‑tamil‑tanglish” guide plus some extra resources in other languages too, so you can pick what works best for you.  
+
+---  
+
+## 1️⃣ Fundamentals ah solid-a set panniko  
+
+| What to Master | Why it matters | Quick Tips |
+|----------------|----------------|------------|
+| **Vectors** (magnitude + direction) | Newton’s laws are all about forces & accelerations → vector maths essential. | • Draw every problem. <br>• Use components (x, y) – break them down. |
+| **Units & Dimensional Analysis** | Wrong units = wrong answer (and a lot of wasted time). | • Always write SI units. <br>• Do a “unit check” at the end of every equation. |
+| **Kine
