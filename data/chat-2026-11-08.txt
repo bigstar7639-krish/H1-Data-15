@@ -739,3 +739,4 @@ Oru chinna city la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana av
 Smart Q 7088 - Cricket la eppadi jeyikkarathu?
 Reading 7089 - Mahabharata!
 Business Idea 7090 - Tuition - Veetla Tuition!
+Smart Q 7091 - Diet la eppadi jeyikkarathu?
