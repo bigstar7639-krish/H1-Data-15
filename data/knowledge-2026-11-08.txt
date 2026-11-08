@@ -93,3 +93,6 @@ Knowledge 6722 - Heart - Heart pathi sollu - Nalla question! Daily try pannu - J
 Knowledge Quiz
 Q: What was the first Disney movie to use CGI?
 A: The Black Cauldron - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: In "Starbound", according to the asset files, the description of the "Erchius Ghost" is the same as which other assets?
+A: Spookit - Entertainment: Video Games
