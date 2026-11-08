@@ -641,3 +641,5 @@ Knowledge 7029 - Eiffel Tower - **Eiffel Tower** – Paris‑la irukkira ind
 - **Cost:** Approx **7.8 million French francs** back then (≈ $1.5 billion to
 Story 7030
 Oru chinna delhi la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Emotion Q 7031 - excited?
+Aira: Excited ah! Sollu!
