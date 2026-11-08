@@ -1,3 +1,4 @@
 Game 6673 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 6690 - Coin Toss - Ne Toss nu Sollu!
 Game 6718 - Dice - Ne Dice nu Sollu!
+Game 6750 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
