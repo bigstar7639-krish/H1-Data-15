@@ -563,3 +563,4 @@ Vocab 6995 - Courage = Thairiyam
 Smart Q 6996 - Kavithai la eppadi jeyikkarathu?
 Emotion Q 6997 - bored?
 Aira: Bored ah? Joke sollattuma?
+Game 6998 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
