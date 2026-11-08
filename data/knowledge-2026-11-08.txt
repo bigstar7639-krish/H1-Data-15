@@ -325,3 +325,18 @@ A: Venus - Science & Nature
 Knowledge Quiz
 Q: In "JoJo's Bizarre Adventure", which of the following Stands does NOT have a time-based ability?
 A: 20th Century Boy - Entertainment: Japanese Anime & Manga
+Knowledge 6914 - Internet - Hey buddy! 🙌  
+**Internet**-ஐ பற்றி கொஞ்சம் சொல்லிக்கிட்டு, எல்லா languages-லும் (Tamil Tanglish mix) உங்களுக்கு புரியும் style-ல் விளக்குகிறேன். 😄
+
+---
+
+## 1️⃣ Internet என்பது என்ன?  
+Internet = **World Wide Web**-ன் massive network of computers, servers, routers, satellites, cables (undersea fiber optic cables too).  
+இதை “**global village**” என்று சொல்லலாம் – எல்லா கண்டங்களின் மக்கள், தகவல், video, music, games, news, shopping, work – எல்லாம் ஒரே பைட்டில் (byte) பாய்ந்து கொண்டிருக்கும் ஒரு பெரிய “digital highway”.
+
+## 2️⃣ எப்படி வேலை செய்கிறது?  
+
+| Step | What Happens (Simple) | Tamil Tanglish Explanation |
+|------|------------------------|----------------------------|
+| **1. Device** | Phone, laptop, smart TV, etc. | உங்க phone/ laptop-ல் **network adapter** இருக்கும். |
+| **3. ISP (I
