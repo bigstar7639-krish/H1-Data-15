@@ -213,3 +213,5 @@ Coding Q 6788 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Reading 6789 - Mahabharata!
 Thirukkural 6790 - Porumai - Periya Sakthi! - Thirukkural
+Emotion Q 6791 - happy?
+Aira: Super! Happy ah irukka!
