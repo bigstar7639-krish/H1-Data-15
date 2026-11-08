@@ -687,3 +687,5 @@ Story 7060
 Oru paris la oru paiyan irunthan! Daily coding pannan pannan! Oru naal treasure kedaichuchu! Life maariduchu!
 Kavithai 7061 - Un Kural - En Isai! - Aira
 Fact 298 - Honey - 3000 varusham kedathu!
+Coding Q 7063 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
