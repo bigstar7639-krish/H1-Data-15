@@ -648,3 +648,5 @@ Motivation 7033
 Paravalla! Rest edu - Thirumba try pannu!
 Coding Q 7034 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
+Coding Q 7035 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
