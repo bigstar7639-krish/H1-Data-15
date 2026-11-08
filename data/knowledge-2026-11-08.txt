@@ -189,3 +189,6 @@ A: 3 - Politics
 Knowledge Quiz
 Q: What is on display in the Madame Tussaud's museum in London?
 A: Wax sculptures - General Knowledge
+Knowledge Quiz
+Q: In which war did the atomic bombings of Hiroshima and Nagasaki occur?
+A: World War II - History
