@@ -693,3 +693,5 @@ Motivation 7064
 Paravalla! Rest edu - Thirumba try pannu!
 Game 7065 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Smart Q 7066 - Plants la eppadi jeyikkarathu?
+Emotion Q 7067 - sad?
+Aira: Paravalla! Aira irukka - Pesu!
