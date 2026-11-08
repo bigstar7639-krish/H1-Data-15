@@ -517,3 +517,6 @@ A: Avalice - Entertainment: Video Games
 Knowledge Quiz
 Q: Which mathematician refused the Fields Medal?
 A: Grigori Perelman - Science: Mathematics
+Knowledge Quiz
+Q: Which element has the chemical symbol 'Fe'?
+A: Iron - Science & Nature
