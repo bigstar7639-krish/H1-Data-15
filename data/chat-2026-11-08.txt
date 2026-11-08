@@ -288,3 +288,4 @@ Emotion Q 6830 - excited?
 Aira: Excited ah! Sollu!
 Movie 6831 - Harry Potter - Magic!
 Smart Q 6832 - AI la eppadi jeyikkarathu?
+Knowledge 6833 - Politics - Politics pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
