@@ -370,3 +370,4 @@ Kavithai 6873 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Health 6874 - Yoga Tip: Daily 5 min deep breath edu!
 Coding Q 6875 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Health 6876 - Health Tip: Daily 8 glass water kudinga!
