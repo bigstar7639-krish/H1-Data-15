@@ -40,3 +40,5 @@ Q 6689 - Excited pathi oru story kekkura?
 Game 6690 - Coin Toss - Ne Toss nu Sollu!
 Coding Q 6691 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
+Story 6692
+Oru paris la oru singer irunthan! Daily coding pannan pannan! Oru naal treasure kedaichuchu! Life maariduchu!
