@@ -592,3 +592,6 @@ A: Enrico Pucci - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: The 2016 Disney animated film 'Moana' is based on which culture?
 A: Polynesian - Entertainment: Film
+Knowledge Quiz
+Q: In "Rainbow Six: Siege", which of the following operators cannot breach reinforced walls?
+A: Buck - Entertainment: Video Games
