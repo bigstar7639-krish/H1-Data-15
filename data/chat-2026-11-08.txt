@@ -322,3 +322,4 @@ Coding Q 6852 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
 World Story 6853
 Oru chinna paris la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Game 6854 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
