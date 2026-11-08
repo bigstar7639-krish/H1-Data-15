@@ -560,3 +560,6 @@ A: cos(x) - Science: Mathematics
 Knowledge Quiz
 Q: What was the first James Bond film?
 A: Dr. No - Entertainment: Film
+Knowledge Quiz
+Q: In "Sonic the Hedgehog 3" for the Sega Genesis, what is the color of the second Chaos Emerald you can get from Special Stages?
+A: Orange - Entertainment: Video Games
