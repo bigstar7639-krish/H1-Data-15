@@ -301,3 +301,6 @@ A: Counter Trap - Entertainment: Board Games
 Knowledge Quiz
 Q: Which of the following colors does the Zombie eyes glow in the "Nuketown" map in "Call of Duty: Black Ops II" Zombies mode?
 A: Yellow and Blue - Entertainment: Video Games
+Knowledge Quiz
+Q: How much did the indie game "Cave Story" cost when it was first released in 2004?
+A: $0 USD - Entertainment: Video Games
