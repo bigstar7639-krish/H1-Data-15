@@ -446,3 +446,6 @@ A: John - Entertainment: Music
 Knowledge Quiz
 Q: Which of these Roman gods doesn't have a counterpart in Greek mythology?
 A: Janus - Mythology
+Knowledge Quiz
+Q: Which actor from The Young Ones also played Lord Flashheart in one episode of Blackadder II?
+A: Rik Mayall - Entertainment: Television
