@@ -17,3 +17,4 @@ Game 6980 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Game 6998 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 7012 - Coin Toss - Ne Toss nu Sollu!
 Game 7038 - Dice - Ne Dice nu Sollu!
+Game 7065 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
