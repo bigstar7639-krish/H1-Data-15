@@ -96,3 +96,6 @@ A: The Black Cauldron - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: In "Starbound", according to the asset files, the description of the "Erchius Ghost" is the same as which other assets?
 A: Spookit - Entertainment: Video Games
+Knowledge Quiz
+Q: How many Mudokons are rescuable in "Oddworld: New 'N' Tasty"?
+A: 299 - Entertainment: Video Games
