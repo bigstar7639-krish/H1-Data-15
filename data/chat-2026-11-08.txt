@@ -460,3 +460,4 @@ Aira: Bug - Log paaru!
 Game 6935 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Coding Q 6936 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Talk 6937 - Travel pathi pesalama? Sollu!
