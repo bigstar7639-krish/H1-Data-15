@@ -289,3 +289,6 @@ A: Infrastructure as a Service - Science: Computers
 Knowledge Quiz
 Q: Which of these does Charlie NOT read in The Perks of Being a Wallflower?
 A: The Grapes of Wrath - Entertainment: Books
+Knowledge Quiz
+Q: When was the Garfield comic first published?
+A: 1978 - Entertainment: Comics
