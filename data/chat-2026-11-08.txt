@@ -518,3 +518,4 @@ Story 6967
 Oru chinna oor la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Kavithai 6968 - Un Sirippu - En Vazhkai! - Aira
 Thirukkural 6969 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
+Health 6970 - Health Tip: 7 mani neram thoongunga!
