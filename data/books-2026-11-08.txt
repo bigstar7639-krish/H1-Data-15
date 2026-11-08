@@ -11,3 +11,4 @@ kan - in.gazette.karnataka_eo.2020-08-06.174 - Karnataka ExtraOrdinary Gazette, 
 kan - in.gazette.karnataka_eo.2020-06-24.UDD05MLR2018 - Karnataka ExtraOrdinary Gazette, 2020-06-24, Extra Ordinary, Part III
 mar - comunalism-ransubhe_202606 - जमातवाद : समज गैरसमज
 mar - in.gazette.maharashtra.2020-03-12.Ordinary_CENTRAL-SECTION_Part-two-suppliment- - Maharashtra Gazette, 2020-03-12, Ordinary, Part two (suppliment)
+kor - chosun-ilbo-1930.03.13e - 朝鮮日報 1930.03.13e
