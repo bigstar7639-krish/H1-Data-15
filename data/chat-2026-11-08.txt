@@ -159,3 +159,5 @@ Aira: HTML button: `<button>Click</button>`
 Business Idea 6752 - Instagram Page - Daily 1 Post!
 Talk 6753 - Shakespeare pathi pesalama? Sollu!
 Q 6754 - Robot pathi oru secret sollatta?
+Joke 6755
+Why bike sad? Petrol illa!
