@@ -491,3 +491,6 @@ Knowledge 7019 - Tokyo - Hey buddy! 🌏✨
 Knowledge Quiz
 Q: How many cores does the Intel i7-6950X have?
 A: 10 - Science: Computers
+Knowledge Quiz
+Q: What is the nickname for the US state Delaware?
+A: The First State - Geography
