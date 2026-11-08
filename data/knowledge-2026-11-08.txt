@@ -461,3 +461,6 @@ A: Archduke Franz Ferdinand - History
 Knowledge Quiz
 Q: What nationality was the famous artist Van Gogh?
 A: Dutch - Art
+Knowledge Quiz
+Q: Who was the first man to travel into outer space?
+A: Yuri Gagarin - History
