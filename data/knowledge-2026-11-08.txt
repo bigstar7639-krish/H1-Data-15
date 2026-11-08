@@ -464,3 +464,6 @@ A: Dutch - Art
 Knowledge Quiz
 Q: Who was the first man to travel into outer space?
 A: Yuri Gagarin - History
+Knowledge Quiz
+Q: What is the first Mersenne prime exponent over 1000?
+A: 1279 - Science: Mathematics
