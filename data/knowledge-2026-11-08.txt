@@ -539,3 +539,6 @@ A: 24 - Science & Nature
 Knowledge Quiz
 Q: Who was the first wife of King Henry VIII?
 A: Catherine of Aragon - History
+Knowledge Quiz
+Q: How fast is USB 3.1 Gen 2 theoretically?
+A: 10 Gb/s - Science: Computers
