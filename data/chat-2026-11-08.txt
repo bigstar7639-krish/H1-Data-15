@@ -153,3 +153,4 @@ Newton‑la (Physics‑la especially **Newton’s Laws** & **Mechanics**) improv
 | **Vectors** (magnitude + direction) | Newton’s laws are all about forces & accelerations → vector maths essential. | • Draw every problem. <br>• Use components (x, y) – break them down. |
 | **Units & Dimensional Analysis** | Wrong units = wrong answer (and a lot of wasted time). | • Always write SI units. <br>• Do a “unit check” at the end of every equation. |
 | **Kine
+Game 6750 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
