@@ -4,3 +4,6 @@ A: 0.1m - Vehicles
 Knowledge Quiz
 Q: How many people are in the U.S. House of Representatives?
 A: 435 - Politics
+Knowledge Quiz
+Q: What was the subject of the 2014 song "CoCo" by American rapper O. T. Genasis?
+A: Cocaine - Entertainment: Music
