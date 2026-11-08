@@ -223,3 +223,6 @@ A: Sends out an advertisement for someone to move in. - Entertainment: Video Gam
 Knowledge Quiz
 Q: In the cartoon 'SpongeBob SquarePants', what did the acronym E.V.I.L stand for?
 A: Every Villain Is Lemons - Entertainment: Television
+Knowledge Quiz
+Q: What was Marilyn Monroe`s character's first name in the film "Some Like It Hot"?
+A: Sugar - Entertainment: Film
