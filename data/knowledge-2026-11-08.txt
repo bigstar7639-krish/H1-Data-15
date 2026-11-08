@@ -542,3 +542,6 @@ A: Catherine of Aragon - History
 Knowledge Quiz
 Q: How fast is USB 3.1 Gen 2 theoretically?
 A: 10 Gb/s - Science: Computers
+Knowledge Quiz
+Q: What was the date of original airing of the pilot episode of My Little Pony: Friendship is Magic?
+A: October 10th, 2010 - Entertainment: Television
