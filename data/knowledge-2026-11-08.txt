@@ -589,3 +589,6 @@ Knowledge 7084 - Science - Hey buddy! 🌟
 Knowledge Quiz
 Q: In JoJo's Bizarre Adventure, which character is able to accelerate time?
 A: Enrico Pucci - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: The 2016 Disney animated film 'Moana' is based on which culture?
+A: Polynesian - Entertainment: Film
