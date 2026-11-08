@@ -466,3 +466,19 @@ Movie 6939 - Harry Potter - Magic!
 Story 6940
 Oru world la oru teacher irunthan! Daily padichan pannan! Oru naal book kedaichuchu! Life maariduchu!
 Quote 6941 - Daily try pannu - Jeyichiduva! - Aira
+Knowledge 6942 - Business - Hey! 🙌 **Business பத்தி (Business பற்றிய) சில useful points** நீங்க கேள்வி கேட்டீங்க, அதுக்காக simple‑ஆ, practical‑ஆ, Tamil‑Tanglish mix-ஆ சொல்லிடுறேன்.  
+
+---
+
+## 1️⃣ Idea & Market Fit  
+- **Problem identify** பண்ணுங்க – உங்க target customers‑க்கு எதையோ pain point இருக்கு.  
+- **Solution** – நீங்க அந்த problem‑ஐ எப்படி solve பண்ணுவீங்க?  
+- **Market size** – அந்த market‑ல் enough demand இருக்கு? Google Trends, industry reports, competitor analysis use பண்ணுங்க.
+
+## 2️⃣ Business Model  
+| Model | Example | How it makes money |
+|-------|---------|-------------------|
+| **E‑commerce** | Clothing, groceries | Sales margin + shipping fees |
+| **Subscription** | SaaS, OTT, gym | Monthly/annual recurring revenue |
+| **Marketplace** | Uber, Flipkart | Commission on each transaction |
+| **Advertis
