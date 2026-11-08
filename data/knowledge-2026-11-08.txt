@@ -180,3 +180,6 @@ A: 6.022 x 10^23 - Science & Nature
 Knowledge Quiz
 Q: What was the birthplace of musical artist 'Sir Robert Bryson Hall II' (aka. Logic)?
 A: Maryland, United States - Entertainment: Music
+Knowledge Quiz
+Q: Where is the city of Haarlem located?
+A: The Netherlands - Geography
