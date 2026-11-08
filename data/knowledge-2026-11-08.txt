@@ -167,3 +167,6 @@ Knowledge 6784 - Quran - Quran pathi sollu - Nalla question! Daily try pannu - J
 Knowledge Quiz
 Q: Who is the vocalist and frontman of rock band "Guns N' Roses"?
 A: Axl Rose - Entertainment: Music
+Knowledge Quiz
+Q: What was the game "Galaga" was a sequel to?
+A: Galaxian - Entertainment: Video Games
