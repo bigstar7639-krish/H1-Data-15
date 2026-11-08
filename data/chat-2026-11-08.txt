@@ -451,3 +451,5 @@ Aira AI: Un life la Science eppadi irukku? - Nalla question! Daily try pannu - J
 Thirukkural 6929 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Coding Q 6930 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+World Story 6931
+Oru chinna city la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
