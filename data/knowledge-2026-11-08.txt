@@ -183,3 +183,6 @@ A: Maryland, United States - Entertainment: Music
 Knowledge Quiz
 Q: Where is the city of Haarlem located?
 A: The Netherlands - Geography
+Knowledge Quiz
+Q: In United States history, how many vice presidents did Franklin D. Roosevelt have during his time in office as president?
+A: 3 - Politics
