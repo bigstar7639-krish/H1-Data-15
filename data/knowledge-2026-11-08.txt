@@ -494,3 +494,6 @@ A: 10 - Science: Computers
 Knowledge Quiz
 Q: What is the nickname for the US state Delaware?
 A: The First State - Geography
+Knowledge Quiz
+Q: What is the name of the talking cat in Persona 5?
+A: Morgana - Entertainment: Video Games
