@@ -416,3 +416,6 @@ A: 1833 - General Knowledge
 Knowledge Quiz
 Q: How many semitones are in an octave?
 A: 12 - Entertainment: Music
+Knowledge Quiz
+Q: Automobiles produced by Tesla Motors operate on which form of energy?
+A: Electricity - Vehicles
