@@ -310,3 +310,6 @@ A: Don't Stop Me Now - Entertainment: Film
 Knowledge Quiz
 Q: If someone said "you are olid", what would they mean?
 A: You smell extremely unpleasant. - General Knowledge
+Knowledge Quiz
+Q: In the complex plane, multiplying a given function by i rotates it anti-clockwise by how many degrees?
+A: 90 - Science: Mathematics
