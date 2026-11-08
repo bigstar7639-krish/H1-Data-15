@@ -16,3 +16,4 @@ Game 6957 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Game 6980 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Game 6998 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 7012 - Coin Toss - Ne Toss nu Sollu!
+Game 7038 - Dice - Ne Dice nu Sollu!
