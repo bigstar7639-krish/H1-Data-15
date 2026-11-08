@@ -674,3 +674,4 @@ Oru chinna world la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aa
 Vocab 7052 - Peace = Amaithi
 Coding Q 7053 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Movie 7054 - Harry Potter - Magic!
