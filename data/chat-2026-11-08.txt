@@ -458,3 +458,5 @@ Movie 6933 - Leo - Vijay - Action!
 Coding Q 6934 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
 Game 6935 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
+Coding Q 6936 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
