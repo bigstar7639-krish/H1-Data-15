@@ -319,3 +319,6 @@ A: MASTER 9 - Bridge Master - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the name of the ocean that Hawaii is located in?
 A: Pacific - Geography
+Knowledge Quiz
+Q: What is the hottest planet in the Solar System?
+A: Venus - Science & Nature
