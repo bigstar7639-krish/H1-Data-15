@@ -563,3 +563,6 @@ A: Dr. No - Entertainment: Film
 Knowledge Quiz
 Q: In "Sonic the Hedgehog 3" for the Sega Genesis, what is the color of the second Chaos Emerald you can get from Special Stages?
 A: Orange - Entertainment: Video Games
+Knowledge Quiz
+Q: How many bones are in the human body?
+A: 206 - Science & Nature
