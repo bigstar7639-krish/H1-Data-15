@@ -280,3 +280,5 @@ Game 6824 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Quote 6825 - Daily try pannu - Jeyichiduva! - Aira
 Joke 6826
 Teacher: Yen late? Student: School Ahead board!
+Coding Q 6827 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
