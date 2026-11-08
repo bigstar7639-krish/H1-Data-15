@@ -128,3 +128,4 @@ Vocab 6735 - Love = Kadhal
 Smart Q 6736 - Computer la eppadi jeyikkarathu?
 Story 6737
 Oru sea la oru raja irunthan! Daily help pannan pannan! Oru naal friend kedaichuchu! Life maariduchu!
+Fact 286 - Octopus ku 3 heart!
