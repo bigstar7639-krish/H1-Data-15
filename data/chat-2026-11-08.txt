@@ -676,3 +676,5 @@ Coding Q 7053 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Movie 7054 - Harry Potter - Magic!
 Thirukkural 7055 - Anbu - Ellam Tharum! - Thirukkural
+Motivation 7056
+Paravalla! Rest edu - Thirumba try pannu!
