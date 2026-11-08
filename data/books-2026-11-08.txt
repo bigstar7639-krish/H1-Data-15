@@ -29,3 +29,4 @@ kan - in.gazette.karnataka_eo.2020-08-06.102 - Karnataka ExtraOrdinary Gazette, 
 chi - xinminbao-nanjing-1934.06.15 - 新民報 (南京) 1934.06.15
 chi - xijing-ribao-1939.07.10 - 西京日報 1939.07.10
 eng - the-daily-life-of-a-stalker - The Daily Life Of A Stalker
+kan - in.gazette.karnataka_eo.2022-03-14.2012021 - Karnataka ExtraOrdinary Gazette, 2022-03-14, Extra Ordinary, Part III
