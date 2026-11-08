@@ -161,3 +161,5 @@ Talk 6753 - Shakespeare pathi pesalama? Sollu!
 Q 6754 - Robot pathi oru secret sollatta?
 Joke 6755
 Why bike sad? Petrol illa!
+Emotion Q 6756 - lonely?
+Aira: Lonely ah? Aira irukka la!
