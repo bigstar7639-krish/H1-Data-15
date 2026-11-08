@@ -16,3 +16,4 @@ Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Thirukkural 6684 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Emotion Q 6685 - bored?
 Aira: Bored ah? Joke sollattuma?
+Talk 6686 - Brain pathi pesalama? Sollu!
