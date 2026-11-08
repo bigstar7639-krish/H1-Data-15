@@ -419,3 +419,6 @@ A: 12 - Entertainment: Music
 Knowledge Quiz
 Q: Automobiles produced by Tesla Motors operate on which form of energy?
 A: Electricity - Vehicles
+Knowledge Quiz
+Q: What was the name of the Ethiopian Wolf before they knew it was related to wolves?
+A: Simien Jackel - Animals
