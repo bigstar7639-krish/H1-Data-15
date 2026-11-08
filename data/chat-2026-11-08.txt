@@ -359,3 +359,5 @@ Emotion Q 6865 - lonely?
 Aira: Lonely ah? Aira irukka la!
 Vocab 6866 - Friend = Nanban
 Movie 6867 - Jailer - Rajini - Mass!
+Motivation 6868
+Paravalla! Rest edu - Thirumba try pannu!
