@@ -158,3 +158,4 @@ Coding Q 6751 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Business Idea 6752 - Instagram Page - Daily 1 Post!
 Talk 6753 - Shakespeare pathi pesalama? Sollu!
+Q 6754 - Robot pathi oru secret sollatta?
