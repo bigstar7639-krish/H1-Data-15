@@ -82,3 +82,4 @@ Computer என்பது **data-ஐ process** செய்யும் electr
 | **RAM (Random Access Memory)** | Temporary storage – program-கள் ஓடும் போது data-ஐ hold செய்கிறது | 8 GB, 16 GB DDR4 |
 | **Storage** | Permanent data storage – files, OS, apps | HDD, SSD, NVMe |
 | **Motherboard** | எல்லா components-ஐ connect செய்யும் board | ATX, Micro
+Thirukkural 6711 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
