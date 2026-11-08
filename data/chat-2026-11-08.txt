@@ -139,3 +139,4 @@ Recipe 6744 - Cake - Maida + Sugar + Egg + 30 min!
 Emotion Q 6745 - sad?
 Aira: Paravalla! Aira irukka - Pesu!
 Reading 6746 - Bharathiyar Kavithaigal!
+Knowledge 6747 - Fitness - Fitness pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
