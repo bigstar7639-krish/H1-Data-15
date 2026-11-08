@@ -143,3 +143,6 @@ A: Typewriters - Science: Gadgets
 Knowledge Quiz
 Q: Deuterium is an isotope of which element?
 A: Hydrogen - Science & Nature
+Knowledge Quiz
+Q: According to Overwatch's lore, who was once a member of the Deadlock Gang?
+A: McCree - Entertainment: Video Games
