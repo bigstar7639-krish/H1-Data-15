@@ -620,3 +620,5 @@ World Story 7022
 Oru sea la oru singer irunthan! Daily coding pannan pannan! Oru naal love kedaichuchu! Life maariduchu!
 Talk 7023 - River pathi pesalama? Sollu!
 Vocab 7024 - Success = Vetri
+Coding Q 7025 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
