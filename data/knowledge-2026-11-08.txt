@@ -362,3 +362,6 @@ A: Bull - Vehicles
 Knowledge Quiz
 Q: Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
 A: Apple - Science: Computers
+Knowledge Quiz
+Q: In "Call of Duty: Zombies", what group does Doctor Maxis work for?
+A: Group 935 - Entertainment: Video Games
