@@ -83,3 +83,4 @@ Computer என்பது **data-ஐ process** செய்யும் electr
 | **Storage** | Permanent data storage – files, OS, apps | HDD, SSD, NVMe |
 | **Motherboard** | எல்லா components-ஐ connect செய்யும் board | ATX, Micro
 Thirukkural 6711 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
+Thirukkural 6712 - Porumai - Periya Sakthi! - Thirukkural
