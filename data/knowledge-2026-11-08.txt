@@ -83,3 +83,6 @@ A: Jake - Entertainment: Television
 Knowledge Quiz
 Q: How many sides does a trapezium have?
 A: 4 - Science: Mathematics
+Knowledge Quiz
+Q: Which of these artists has NOT been a member of dancehall group Major Lazer?
+A: Skrillex - Entertainment: Music
