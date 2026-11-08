@@ -13,3 +13,4 @@ Oru new york la oru teacher irunthan! Daily dream pannan pannan! Oru naal dream 
 Business Idea 6682 - Tuition - Veetla Tuition!
 Coding Q 6683 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Thirukkural 6684 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
