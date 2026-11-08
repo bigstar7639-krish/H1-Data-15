@@ -625,3 +625,17 @@ Aira: Python loop: `for i in range(5): print(i)`
 Kavithai 7026 - Un Sirippu - En Vazhkai! - Aira
 Vocab 7027 - Happy = Santhosham
 Talk 7028 - Friendship pathi pesalama? Sollu!
+Knowledge 7029 - Eiffel Tower - **Eiffel Tower** – Paris‑la irukkira indha iconic structure‑a pathi konjam **Tanglish**‑la solla poren! 🌟  
+
+---
+
+### 1. Basic Details  
+- **Location:** Paris, France, **Champ de Mars**‑la, **Seine River**-kku koodiya pakkam.  
+- **Height:** **324 m** (including the antenna).  It was the world’s tallest building from **1889‑1930**.  
+- **Construction period:** **1887‑1889** (just 2 years!).  
+
+### 2. History & Design  
+- **Engineer:** **Gustave Eiffel** (and his team – Maurice Koechlin, Émile Nouguier).  
+- **Purpose:** 1889‑la **World’s Fair** (Exposition Universelle)‑kku “entrance arch” aaga build pannirundhanga.  
+- **Material:** About **18,038 iron pieces**, riveted together – total weight **≈10,000 tons**.  
+- **Cost:** Approx **7.8 million French francs** back then (≈ $1.5 billion to
