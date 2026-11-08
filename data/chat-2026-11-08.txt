@@ -49,3 +49,4 @@ Emotion Q 6695 - angry?
 Aira: Kovam ah? Deep breath edu!
 Story 6696
 Oru world la oru paiyan irunthan! Daily book padichan pannan! Oru naal power kedaichuchu! Life maariduchu!
+Talk 6697 - Faith pathi pesalama? Sollu!
