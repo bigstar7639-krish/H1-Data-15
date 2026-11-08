@@ -542,3 +542,4 @@ Vocab 6978 - Courage = Thairiyam
 Quote 6979 - Daily try pannu - Jeyichiduva! - Aira
 Game 6980 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Q 6981 - World pathi oru secret sollatta?
+Q 6982 - DNA pathi oru story kekkura?
