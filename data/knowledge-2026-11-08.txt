@@ -458,3 +458,6 @@ A: Nevermind - Entertainment: Music
 Knowledge Quiz
 Q: The assassination of which royal led to the start of World War I?
 A: Archduke Franz Ferdinand - History
+Knowledge Quiz
+Q: What nationality was the famous artist Van Gogh?
+A: Dutch - Art
