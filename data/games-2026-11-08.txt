@@ -10,3 +10,4 @@ Game 6854 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 6903 - Coin Toss - Ne Toss nu Sollu!
 Game 6919 - Dice - Ne Dice nu Sollu!
 Game 6932 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Game 6935 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
