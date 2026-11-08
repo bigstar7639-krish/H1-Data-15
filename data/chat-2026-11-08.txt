@@ -622,3 +622,4 @@ Talk 7023 - River pathi pesalama? Sollu!
 Vocab 7024 - Success = Vetri
 Coding Q 7025 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Kavithai 7026 - Un Sirippu - En Vazhkai! - Aira
