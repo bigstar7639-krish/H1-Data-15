@@ -581,3 +581,4 @@ Aira: Excited ah! Sollu!
 Quote 7008 - Daily try pannu - Jeyichiduva! - Aira
 Emotion Q 7009 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva!
+Health 7010 - Yoga Tip: Daily 5 min deep breath edu!
