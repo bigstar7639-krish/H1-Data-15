@@ -251,3 +251,4 @@ Aira: Python loop: `for i in range(5): print(i)`
 Talk 6812 - Peace pathi pesalama? Sollu!
 Motivation 6813
 Paravalla! Rest edu - Thirumba try pannu!
+Q 6814 - APJ Abdul Kalam pathi oru story kekkura?
