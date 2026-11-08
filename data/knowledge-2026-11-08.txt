@@ -86,3 +86,6 @@ A: 4 - Science: Mathematics
 Knowledge Quiz
 Q: Which of these artists has NOT been a member of dancehall group Major Lazer?
 A: Skrillex - Entertainment: Music
+Knowledge Quiz
+Q: Which of the following computer components can be built using only NAND gates?
+A: ALU - Science: Computers
