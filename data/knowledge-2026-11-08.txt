@@ -122,3 +122,6 @@ Knowledge 6747 - Fitness - Fitness pathi sollu - Nalla question! Daily try pannu
 Knowledge Quiz
 Q: What is the capital of Brazil?
 A: Brasilia - Geography
+Knowledge Quiz
+Q: Where is Apple Inc. headquartered?
+A: Cupertino, California - General Knowledge
