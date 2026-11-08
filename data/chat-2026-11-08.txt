@@ -504,3 +504,5 @@ Game 6957 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Joke 6958
 Why bike sad? Petrol illa!
 Health 6959 - Health Tip: Daily 8 glass water kudinga!
+Story 6960
+Oru world la oru coder irunthan! Daily pray pannaan pannan! Oru naal success kedaichuchu! Life maariduchu!
