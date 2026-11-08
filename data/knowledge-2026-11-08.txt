@@ -428,3 +428,6 @@ A: Japan - General Knowledge
 Knowledge Quiz
 Q: In the Sci-Fi television show Doctor Who, who plays the Tenth Doctor?
 A: David Tennant - Entertainment: Television
+Knowledge Quiz
+Q: In the 1994 movie "Speed", what is the minimum speed the bus must go to prevent to bomb from exploding?
+A: 50 mph - Entertainment: Film
