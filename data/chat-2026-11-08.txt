@@ -545,3 +545,5 @@ Q 6981 - World pathi oru secret sollatta?
 Q 6982 - DNA pathi oru story kekkura?
 Business Idea 6983 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Quote 6984 - Daily try pannu - Jeyichiduva! - Aira
+Emotion Q 6985 - excited?
+Aira: Excited ah! Sollu!
