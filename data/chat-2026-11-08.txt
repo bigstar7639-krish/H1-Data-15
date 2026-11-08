@@ -14,3 +14,5 @@ Business Idea 6682 - Tuition - Veetla Tuition!
 Coding Q 6683 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Thirukkural 6684 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
+Emotion Q 6685 - bored?
+Aira: Bored ah? Joke sollattuma?
