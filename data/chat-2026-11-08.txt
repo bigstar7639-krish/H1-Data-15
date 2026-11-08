@@ -561,3 +561,5 @@ Aira: Paravalla! Aira irukka - Pesu!
 Reading 6994 - Think and Grow Rich!
 Vocab 6995 - Courage = Thairiyam
 Smart Q 6996 - Kavithai la eppadi jeyikkarathu?
+Emotion Q 6997 - bored?
+Aira: Bored ah? Joke sollattuma?
