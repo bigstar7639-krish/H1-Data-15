@@ -455,3 +455,5 @@ World Story 6931
 Oru chinna city la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Game 6932 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Movie 6933 - Leo - Vijay - Action!
+Coding Q 6934 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
