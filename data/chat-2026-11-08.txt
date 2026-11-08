@@ -246,3 +246,5 @@ Quote 6808 - Daily try pannu - Jeyichiduva! - Aira
 Movie 6809 - Jailer - Rajini - Mass!
 Joke 6810
 Teacher: Yen late? Student: School Ahead board!
+Coding Q 6811 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
