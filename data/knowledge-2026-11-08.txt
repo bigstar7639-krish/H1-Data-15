@@ -488,3 +488,6 @@ Knowledge 7019 - Tokyo - Hey buddy! 🌏✨
 | **Economy** | World’s 3rd‑largest metro‑area economy. Finance (Mitsubishi UFJ, Nomura), tech (Sony, SoftBank), fashion, & gaming hubs. |
 | **Transport** | 13 subway lines + JR Yamanote Circle Line. 🚅 Shinkansen (Bullet Train) from Tokyo Station. 300 + stations, super‑punctual! |
 | **Culture** | Traditional (Senso‑ji, Meiji Shrine) + ultra‑modern (Shibuya Crossing, Akihabara). Pop‑cult
+Knowledge Quiz
+Q: How many cores does the Intel i7-6950X have?
+A: 10 - Science: Computers
