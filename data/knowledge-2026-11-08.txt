@@ -304,3 +304,6 @@ A: Yellow and Blue - Entertainment: Video Games
 Knowledge Quiz
 Q: How much did the indie game "Cave Story" cost when it was first released in 2004?
 A: $0 USD - Entertainment: Video Games
+Knowledge Quiz
+Q: What Queen song plays during the final fight scene of the film "Hardcore Henry"?
+A: Don't Stop Me Now - Entertainment: Film
