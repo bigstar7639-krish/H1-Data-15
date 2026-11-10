@@ -203,3 +203,7 @@ Health - bwb_KU-773-442 - The Cost of Health
 Health - pubmed-PMC3890914 - Prevalence and pattern of psychiatric morbidity and health related quality of life in patients with ischemic heart disease in a tertiary care hospital.
 Music - theyallplayedrag0000unse_a9c7 - They all Played Ragtime The True Story Of An American Music
 Music - bwb_T5-BCI-689 - MUsic on My Beat
+Movie - MovieBox_201505 - Movie Box
+Movie - MyMovie_20190227 - My Movie
+Temple - dlibra.kul.pl.44438__Kubis--Adam---Zechar_0000 - Zechariah 6:12-13 as the Referent of γραфήin John 2:22 and 20:9. A Contribution to Johannine Temple-Christology.
+Temple - gov.uscourts.paed.662226 - DOSSICK v. TEMPLE FACULTY PRACTICE PLAN, INC.
